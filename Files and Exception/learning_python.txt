@@ -1,0 +1,2 @@
+In Python you can open any file from whereever you want.
+In Python you can edit any file from whichever file you want.
